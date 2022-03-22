@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"outDir": "./build",
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"sourceMap": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"noFallthroughCasesInSwitch": true,
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"baseUrl": "./src",
+		"jsx": "react-jsx",
+		"module": "esnext",
+		"target": "ES2020"
+	}
+}
